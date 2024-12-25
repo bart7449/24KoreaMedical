@@ -26,23 +26,7 @@ In addition, you will learn about Deep learning based Natural Language Processin
 |Event|Date|In-class lecture|Materials and Exercises|
 |---------|----|-------------|------------|
 |Lecture 1|Dec. 26|<ul><li><a href="https://github.com/bart7449/24KoreaMedical/blob/main/class1.pdf">Basic Concepts for understanding AI, ML <li>neural network<li>Training NN <li>Regression <li>Classification <li> >Convolutional Neural Network I </a>| <a href="https://github.com/bart7449/simsreality/blob/main/Regression.ipynb">Prediction of housing price by using regression techniques</a><br><a href="https://github.com/bart7449/simsreality/blob/main/lab2.ipynb">Diabetes classification using NN</a> |  
-|Lecture 2|Aug. 29|<a href="https://github.com/bart7449/simsreality/blob/main/class2.pdf">An Introduction to neural networks I</a><ul></ul>| | 
-|Lecture 3|Sep. 11|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">An Introduction to neural networks II</a><ul>|
-|Lecture 4|Sep. 12|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf"</a> | |
-|Lecture 5|Sep. 30|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">Convolutional Neural Network II</a>|<a href="https://github.com/bart7449/simsreality/blob/main/lab3.ipynb">Character Recognition with MNIST dataset</a><br><a href="https://github.com/bart7449/simsreality/blob/main/lab4.ipynb"> Detecting Pneumonia with X-ray images</a> |
-|Lecture 6|Oct. 02|<a href="https://github.com/bart7449/simsreality/blob/main/class6-8.pdf">Recurrent Neural Network</a> |  |
-|Lecture 7|Oct 07|<a href="https://github.com/bart7449/simsreality/blob/main/class6-8.pdf">RNN and Attention Mechanisms</a> |<a href="https://github.com/bart7449/simsreality/blob/main/lab5.ipynb"> RNN examples </a>| |
-|Lecture 8|Oct. 10|<a href="https://github.com/bart7449/simsreality/blob/main/class6-8.pdf">Natural Language Processing with DL I</a> <ul><li>word vectors <li>attention mechanism <li>transformers</ul> |  |
-|Lecture 9|Oct. 14|<a href="https://github.com/bart7449/simsreality/blob/main/class9-10.pdf">Natural Language Processing with DL II</a> <ul><li>BERT <li>GPT-like model</ul> | | |
-|Lecture 10|Oct. 16|<a href="https://github.com/bart7449/simsreality/blob/main/class9-10.pdf">Advanced topics and applications</a> |  |
-
-
-
-
-
-
-
-
+|Lecture 2|Dec. 27|<ul><li><a href="https://github.com/bart7449/24KoreaMedical/blob/main/class2.pdf">Convolutional Neural Network II <li>Recurrent Neural Network RNN and Attention Mechanisms <li> Natural Language Processing with DL  <li>Advanced topics and applications </a> |<a href="https://github.com/bart7449/simsreality/blob/main/lab3.ipynb">Character Recognition with MNIST dataset</a><br><a href="https://github.com/bart7449/simsreality/blob/main/lab4.ipynb"> Detecting Pneumonia with X-ray images</a>  <a href="https://github.com/bart7449/simsreality/blob/main/lab5.ipynb"> RNN examples </a> | 
   
 ## Reading list for further discussion
 ### General Techniques
