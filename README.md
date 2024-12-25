@@ -1,4 +1,4 @@
-# Deep Learning for SimsReality Inc. 
+# Special Lecture for Data Science collaborated with KISTI and Korea Univ.
 This repository contains materials for Students at College of Medicine, Korea University to learn AI/ML technologies.
 Deep Learning is regarded as a panacea in this era. 
 In this course, you will learn the foundations of deep learning, understand how to interprete others' neural networks, and learn how to build your own neural networks.
