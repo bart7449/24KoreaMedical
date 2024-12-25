@@ -1,5 +1,5 @@
 # Deep Learning for SimsReality Inc. 
-This repository contains materials for Students at medical school, Korea Universityto learn AI/ML technologies.
+This repository contains materials for Students at College of Medicine, Korea University to learn AI/ML technologies.
 Deep Learning is regarded as a panacea in this era. 
 In this course, you will learn the foundations of deep learning, understand how to interprete others' neural networks, and learn how to build your own neural networks.
 You will also learn about popular neural network structures including convolutional neural networks, Recurrent NNs and transformers 
